@@ -1,0 +1,275 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+}
+
+
+  .header{
+      width: 100%;
+      background-image:url(img/hero.jpg);
+      height: 800px;
+   
+  }
+  .logo{
+      width: 50%;
+      float: left;
+      margin-left: 100px;
+      margin-top: 60px;
+  }
+  .logo span{
+      color: white;
+      font-size: 45px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .menu{
+      width:50%;
+      font-size: 50px;
+      text-align: right;
+      padding-left: 445px;
+      padding-top: 55px;
+      
+  }
+  .menu span{
+      color: white;
+      font-size: 25px;
+  }
+.word{
+    text-align: center;
+    padding-top: 220px;
+    font-size: 50px;
+}
+.codrop{
+    float: left;
+    padding-left: 85px;
+}
+.word span{
+    color: white;
+    font-family:inherit;
+}
+.use{
+text-align: center;
+  padding-top: 100px;
+  padding-right: 960px;
+  
+}
+.aaaa{
+    font-size: 30px ;
+    color: cadetblue;
+    background: white;
+  float: left;
+  margin-left:20px;
+
+
+
+}
+.bbbb{
+     font-size: 30px ;
+    color: white;
+    background-image: url(img/hero.jpg);
+    border: burlywood;
+    border-bottom-left-radius: inherit;
+
+  
+
+   
+
+}
+.button{
+    width: 100%;
+    }
+    .video{
+        width: 100%;
+        background: white;
+        height: 200px;
+        text-align: center;
+        padding-top: 120px;
+    }
+    .video span{
+        font-size: 30px;
+        color: slateblue;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+    }
+    .content{
+        width: 960px;
+        margin: 0 auto;
+    }
+.slide{
+    width: 100%;
+    height: 400px;
+background:cadetblue;
+background-image: url(img/features-intro.jpg );
+background-repeat: no-repeat;
+}
+
+
+
+.repo{
+    width: 100%;
+    height: 430px;
+    background: white;
+}
+.one{
+    width: 33.333%;
+    
+    float: left;
+    padding-top: 120px;
+   
+
+}
+.two{
+   width:  33.333%;
+  
+  padding-top: 120px;
+   float: left;
+}
+.three{
+    width: 33.333%;
+ float: right;
+   padding-top: 120px;
+    
+   
+}
+.one span, .two span, .three span{
+    color: cadetblue;
+}
+
+
+.tel{
+    width: 100%;
+background-image: url(img/showcase-bg-fixed.jpg);
+height: 700px;
+
+}
+.iphone{
+    width: 50%;
+}
+.service{
+    width: 50%;
+    float: right;
+}
+.peter{
+  float: left;
+  text-align: center;
+  margin-right: 10px;
+}
+.download{
+    width: 100%;
+    
+}
+.white{
+    width: 100%;
+    height: 400px;
+    background: white;
+  float: left;
+  padding-top: 200px;
+  text-align: left;
+}
+
+.h{
+    color: green;
+font-family: initial;
+}
+.audio{
+background: red;
+width: 100%;
+height: 900px;
+
+}
+ .office{
+     height: 250px;
+     width: 25%;
+     float: left;
+ }
+.seen{
+    width: 100%;
+ height: 400px;
+    background:	#1E90FF;
+    text-align: center;
+     padding-top: 400px;
+}
+.seen span{
+   color: white;
+   font-size: 40px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+
+.enough{
+    text-align: center;
+padding-bottom: 40px;
+font-size: 50px;
+background: #1E90FF;
+color: white;
+border-radius: 2px;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background: white;
+}
+
+.head{
+width: 50%;
+float: left;
+text-align: center;
+padding-top: 100px;
+
+
+}
+.head span{
+    color: #1E90FF;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav ul {
+list-style: none;
+float: right;
+text-align: right;
+
+
+}
+.nav ul li{
+    float: right;
+    padding-right: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+
+
+
+
